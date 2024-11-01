@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="gecko.png" alt="Logo" width="150" height="150">
+    <img src="https://github.com/afreechameleon/mult/blob/feature/QOL/gecko.png?raw=true" alt="Logo" width="150" height="150">
   </a>
 
   <h3 align="center">Multiad</h3>
